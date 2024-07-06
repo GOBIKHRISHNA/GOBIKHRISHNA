@@ -1,5 +1,5 @@
-//transmitter connected throught the audrino uno and lora ra02 
-//sensor - dht11,temperature sensor,lora ra02
+//transmitter code
+//sensor - dht11,temperature sensor,lora ra02,adrino uno,NPK Sensor,soil moisture sensor
 
 #include <Arduino.h>
 #include <Wire.h>
