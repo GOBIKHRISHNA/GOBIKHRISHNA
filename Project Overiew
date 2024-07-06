@@ -1,0 +1,10 @@
+Project Overview:
+• Utilizes internet connectivity for monitoring water level in overhead tank.
+• Facilitates motor control based on monitored data.
+• Uses NPKan and temperature sensors for water purity and temperature assessment.
+• Utilizes LoRa technology for remote monitoring and control.
+• Development using embedded C/C++ and Arduino IDE software.
+
+Benefits:
+-Identify the system optimizes nutrient supplementation encourages robust crop growth, and maximizes potential output.
+-Emphasis on the resource efficiency achieved through remote monitoring and control.
