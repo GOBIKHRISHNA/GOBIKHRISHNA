@@ -1,8 +1,7 @@
 - 👋 Hi, I’m GOBIKHRISHNA
-- 🌱 I’m currently learning VLSI DESIGN AND MATLAB
-- 💞️ I’m looking to collaborate on ECE-relatable projects
-     
-- 📫 How to reach me.gm9561@srmist.edu.in
+- 🌱 I am a B.Tech ECE Engineer with expertise in designing, developing, and testing embedded systems
+- 📫 How to reach me gobikhris23@gmail.com
+- 📞 +91-6383294326
 
 <!---
 GOBIKHRISHNA/GOBIKHRISHNA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
